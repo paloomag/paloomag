@@ -16,17 +16,17 @@
    <a href="Pinterest">
     <img align="left" alt="html5" width="35px" height="35px" src="./img/pint.png" >
    </a>
-   <a href="Steam">
-    <img align="left" alt="html5" width="35px" height="35px" src="./img/steam-xxl.png" >
-   </a>
    <a href="Skype">
     <img align="left" alt="html5" width="35px" height="35px" src="./img/skype.png" >
    </a>
    <a href="Twitch">
     <img align="left" alt="html5" width="35px" height="35px" src="./img/twitch.png" >
    </a>
-   
-   <h2>My Development Stack</h2>  <code><img src="https://www.iconsdb.com/icons/preview/pink/code-xxl.png" width=20 height=20/></code>
+   <a href="Steam">
+    <img align="left" alt="html5" width="35px" height="35px" src="./img/steam-xxl.png" >
+   </a>
+<br>
+<h2>My Development Stack</h2>  <code><img src="https://www.iconsdb.com/icons/preview/pink/code-xxl.png" width=20 height=20/></code>
    
 <h3>Languages</h3>
 <p>
