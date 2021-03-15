@@ -7,7 +7,7 @@
    <a href="DISCORD">
      <code><img src="https://www.iconsdb.com/icons/preview/pink/discord-xxl.png" width=35 height=35/></code>
    </a>
-   <a href="Gmail">
+   <a href="#">
       <code><img src="https://www.iconsdb.com/icons/preview/pink/email-14-xxl.png width=35 height=35/></code>
    </a>
    <a href="WhatsApp">
