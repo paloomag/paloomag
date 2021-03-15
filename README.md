@@ -1,9 +1,10 @@
 ## Hi, welcome to my Gitpage!  <img align="left" alt="html5" width="35px" height="35px" src="./img/github-9-xxl.png"> </code>
 <p>:cherry_blossom:	I'm Paloma, {Mobile and Frontend} Developer from <b>Brazil</b>.</p>
 <p>:cherry_blossom:  I currently work as a developer at the company <a href="https://www.clinitec.com.br"><b>Clinitec Internet Banda Larga</b>.</a></p>
-
+<br>
+<br>
 <h2> <img align="left" alt="html5" width="35px" height="35px" src="./img/search-xxl.png">  Where to find me: ></h2>
-      
+<br>
    <a href="DISCORD">
      <img align="left" alt="html5" width="35px" height="35px" src="./img/disc.png" >
    </a>
@@ -27,7 +28,8 @@
    </a>
 <br>
 <h2> <img align="left" alt="html5" width="35px" height="35px" src="./img/code-xxl.png" > My Development Stack</h2>
-   
+<br>
+<br>
 <h3>Languages</h3>
 <p>
   <code><img src="https://www.flaticon.com/svg/vstatic/svg/919/919830.svg?token=exp=1615771128~hmac=6cf6c3d207a0b5898de829718b985291" width=35 height=35/></code>
@@ -37,13 +39,15 @@
   <code><img src="https://image.flaticon.com/icons/png/512/732/732212.png" width=35 height=35/></code>
   <code><img src="https://cdn.iconscout.com/icon/free/png-256/css-118-569410.png" width=35 height=40/></code>
 </p>
-
+<br>
+<br>
 <h3>Frameworks</h3>
 <p>
   <code><img src="https://appmasters.io/static/react-47ce6e77f039020ee2e76a10c1e988e9.png" width=35 height=35/></code>
   <code><img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/expo_icon_132404.png" width=35 height=35/></code>
 </p> 
-
+<br>
+<br>
 <h3>Databases</h3>
  <p>
   <code><img src="https://img.icons8.com/color/452/mongodb.png" width=35 height=35 /></code>
