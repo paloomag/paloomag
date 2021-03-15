@@ -1,6 +1,4 @@
-# Hi, welcome to my Gitpage! 👋
----
-
+## Hi, welcome to my Gitpage! 👋
 <p>I'm Paloma, {Mobile and Frontend} Developer from <b>Brazil</b>.
 
 <h2>Where to find me:</h2>
