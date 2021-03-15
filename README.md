@@ -1,6 +1,6 @@
 ## Hi, welcome to my Gitpage! 👋
 <p>I'm Paloma, {Mobile and Frontend} Developer from <b>Brazil</b>.</p>
-<p>I currently work as a developer at the company <b>Clinitec Internet Banda Larga</b>.</p>
+<p>I currently work as a developer at the company <a href="https://www.clinitec.com.br"><b>Clinitec Internet Banda Larga</b>.</a></p>
 
 <h2>Where to find me:</h2>
    
