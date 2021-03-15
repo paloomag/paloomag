@@ -8,7 +8,7 @@
      <code><img src="https://www.iconsdb.com/icons/preview/pink/discord-xxl.png" width=35 height=35/></code>
    </a>
    <a href="#">
-      <code><img src="https://www.iconsdb.com/icons/preview/pink/email-14-xxl.png width=35 height=35/></code>
+      <code><img src="https://www.iconsdb.com/icons/preview/pink/email-14-xxl.png" width=35 height=35/></code>
    </a>
    <a href="WhatsApp">
       <code><img src="https://www.iconsdb.com/icons/preview/pink/whatsapp-xxl.png" width=35 height=35/></code>
