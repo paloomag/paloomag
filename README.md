@@ -4,7 +4,7 @@
 <br>
 <br>
 <h2> <img align="left" alt="html5" width="35px" height="35px" src="./img/search-xxl.png">  Where to find me: </h2>
-<br>
+
    <a href="DISCORD">
      <img align="left" alt="html5" width="35px" height="35px" src="./img/disc.png" >
    </a>
@@ -30,7 +30,6 @@
 <br>
 <br>
 <h2> <img align="left" alt="html5" width="35px" height="35px" src="./img/code-xxl.png" > My Development Stack</h2>
-<br>
 <h3>Languages</h3>
 <p>
   <code><img src="https://www.flaticon.com/svg/vstatic/svg/919/919830.svg?token=exp=1615771128~hmac=6cf6c3d207a0b5898de829718b985291" width=35 height=35/></code>
