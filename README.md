@@ -26,7 +26,7 @@
       <code><img src="https://www.iconsdb.com/icons/preview/pink/twitch-tv-2-xxl.png" width=35 height=35/></code>
    </a>
    
-   <h2>My Development Stack</h2>  <code><img src="https://www.iconsdb.com/icons/preview/pink/code-xxl.png" width=35 height=35/></code>
+   <h2>My Development Stack</h2>  <code><img src="https://www.iconsdb.com/icons/preview/pink/code-xxl.png" width=25 height=25/></code>
    
 <h3>Languages</h3>
 <p>
