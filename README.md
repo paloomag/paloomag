@@ -5,7 +5,7 @@
 <h2>Where to find me: <code><img src="https://www.iconsdb.com/icons/preview/pink/search-12-xxl.png" width=35 height=35/></code></h2>
    
    <a href="DISCORD">
-      <code><img src="https://www.iconsdb.com/icons/preview/pink/discord-xxl.png" width=35 height=35/></code>
+      <img src="https://www.iconsdb.com/icons/preview/pink/discord-xxl.png" width=35 height=35/>
    </a>
    <a href="Gmail">
       <code><img src="https://www.iconsdb.com/icons/preview/pink/email-14-xxl.png width=35 height=35/></code>
