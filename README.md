@@ -27,6 +27,8 @@
     <img align="left" alt="html5" width="35px" height="35px" src="./img/steam-xxl.png" >
    </a>
 <br>
+<br>
+<br>
 <h2> <img align="left" alt="html5" width="35px" height="35px" src="./img/code-xxl.png" > My Development Stack</h2>
 <br>
 <br>
