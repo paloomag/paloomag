@@ -1,6 +1,6 @@
 ## Hi, welcome to my Gitpage! <code><img src="https://www.iconsdb.com/icons/preview/pink/github-9-xxl.png" width=35 height=35/></code>
-:cherry_blossom:	<p>I'm Paloma, {Mobile and Frontend} Developer from <b>Brazil</b>.</p>
-:cherry_blossom:	<p>I currently work as a developer at the company <a href="https://www.clinitec.com.br"><b>Clinitec Internet Banda Larga</b>.</a></p>
+<p>:cherry_blossom:	I'm Paloma, {Mobile and Frontend} Developer from <b>Brazil</b>.</p>
+<p>:cherry_blossom:  I currently work as a developer at the company <a href="https://www.clinitec.com.br"><b>Clinitec Internet Banda Larga</b>.</a></p>
 
 <h2>Where to find me: <code><img src="https://www.iconsdb.com/icons/preview/pink/search-12-xxl.png" width=35 height=35/></code></h2>
    
