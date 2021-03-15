@@ -1,8 +1,8 @@
-## Hi, welcome to my Gitpage!  <img align="left" alt="html5" width="35px" height="35px" src="./img/github-9-xxl.png" </code>
+## Hi, welcome to my Gitpage!  <img align="left" alt="html5" width="35px" height="35px" src="./img/github-9-xxl.png"> </code>
 <p>:cherry_blossom:	I'm Paloma, {Mobile and Frontend} Developer from <b>Brazil</b>.</p>
 <p>:cherry_blossom:  I currently work as a developer at the company <a href="https://www.clinitec.com.br"><b>Clinitec Internet Banda Larga</b>.</a></p>
 
-<h2> <img align="left" alt="html5" width="35px" height="35px" src="./img/search-xxl.png"  Where to find me: ></h2>
+<h2> <img align="left" alt="html5" width="35px" height="35px" src="./img/search-xxl.png">  Where to find me: ></h2>
       
    <a href="DISCORD">
      <img align="left" alt="html5" width="35px" height="35px" src="./img/disc.png" >
