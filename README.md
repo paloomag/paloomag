@@ -3,27 +3,27 @@
 <p>:cherry_blossom:  I currently work as a developer at the company <a href="https://www.clinitec.com.br"><b>Clinitec Internet Banda Larga</b>.</a></p>
 
 <h2>Where to find me: <code><img src="https://www.iconsdb.com/icons/preview/pink/search-12-xxl.png" width=20 height=20/></code></h2>
-   
+      
    <a href="DISCORD">
-     <code><img src="https://www.iconsdb.com/icons/preview/pink/discord-xxl.png" width=35 height=35/></code>
+     <img align="left" alt="html5" width="35px" height="35px" src="./img/disc.png" >
    </a>
    <a href="#">
-      <code><img src="https://www.iconsdb.com/icons/preview/pink/email-14-xxl.png" width=35 height=35/></code>
+    <img align="left" alt="html5" width="35px" height="35px" src="./img/mail.png" >
    </a>
    <a href="WhatsApp">
-      <code><img src="https://www.iconsdb.com/icons/preview/pink/whatsapp-xxl.png" width=35 height=35/></code>
+    <img align="left" alt="html5" width="35px" height="35px" src="./img/whats.png" >
    </a>
    <a href="Pinterest">
-      <code><img src="https://www.iconsdb.com/icons/preview/pink/pinterest-4-xxl.png" width=35 height=35/></code>
+    <img align="left" alt="html5" width="35px" height="35px" src="./img/pint.png" >
    </a>
    <a href="Steam">
-      <code><img src="https://www.iconsdb.com/icons/preview/pink/steam-xxl.png" width=35 height=35/></code>
+    <img align="left" alt="html5" width="35px" height="35px" src="./img/steam-xxl.png" >
    </a>
    <a href="Skype">
-      <code><img src="https://www.iconsdb.com/icons/preview/pink/skype-4-xxl.png" width=35 height=35/></code>
+    <img align="left" alt="html5" width="35px" height="35px" src="./img/skype.png" >
    </a>
    <a href="Twitch">
-      <code><img src="https://www.iconsdb.com/icons/preview/pink/twitch-tv-2-xxl.png" width=35 height=35/></code>
+    <img align="left" alt="html5" width="35px" height="35px" src="./img/twitch.png" >
    </a>
    
    <h2>My Development Stack</h2>  <code><img src="https://www.iconsdb.com/icons/preview/pink/code-xxl.png" width=20 height=20/></code>
