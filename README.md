@@ -1,13 +1,32 @@
-## Hi, welcome to my Gitpage! 👋
-<p>I'm Paloma, {Mobile and Frontend} Developer from <b>Brazil</b>.</p>
-<p>I currently work as a developer at the company <a href="https://www.clinitec.com.br"><b>Clinitec Internet Banda Larga</b>.</a></p>
+## Hi, welcome to my Gitpage! <code><img src="https://www.iconsdb.com/icons/preview/pink/github-9-xxl.png" width=35 height=35/></code>
+:cherry_blossom:	<p>I'm Paloma, {Mobile and Frontend} Developer from <b>Brazil</b>.</p>
+:cherry_blossom:	<p>I currently work as a developer at the company <a href="https://www.clinitec.com.br"><b>Clinitec Internet Banda Larga</b>.</a></p>
 
-<h2>Where to find me:</h2>
+<h2>Where to find me: <code><img src="https://www.iconsdb.com/icons/preview/pink/search-12-xxl.png" width=35 height=35/></code></h2>
    
-   [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:palomagoularty@gmail.com&link=mailto:palomagoularty@gmail.com)](mailto:palomagoularty@gmail.com)
-   [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5547991469514&text=Hello!)](https://api.whatsapp.com/send?phone=5547991469514&text=Hello!)
+   <a href="DISCORD">
+      <code><img src="https://www.iconsdb.com/icons/preview/pink/discord-xxl.png" width=35 height=35/></code>
+   </a>
+   <a href="Gmail">
+      <code><img src="https://www.iconsdb.com/icons/preview/pink/email-14-xxl.png width=35 height=35/></code>
+   </a>
+   <a href="WhatsApp">
+      <code><img src="https://www.iconsdb.com/icons/preview/pink/whatsapp-xxl.png" width=35 height=35/></code>
+   </a>
+   <a href="Pinterest">
+      <code><img src="https://www.iconsdb.com/icons/preview/pink/pinterest-4-xxl.png" width=35 height=35/></code>
+   </a>
+   <a href="Steam">
+      <code><img src="https://www.iconsdb.com/icons/preview/pink/steam-xxl.png" width=35 height=35/></code>
+   </a>
+   <a href="Skype">
+      <code><img src="https://www.iconsdb.com/icons/preview/pink/skype-4-xxl.png" width=35 height=35/></code>
+   </a>
+   <a href="Twitch">
+      <code><img src="https://www.iconsdb.com/icons/preview/pink/twitch-tv-2-xxl.png" width=35 height=35/></code>
+   </a>
    
-   <h2>My Development Stack</h2>
+   <h2>My Development Stack</h2>  <code><img src="https://www.iconsdb.com/icons/preview/pink/code-xxl.png" width=35 height=35/></code>
    
 <h3>Languages</h3>
 <p>
