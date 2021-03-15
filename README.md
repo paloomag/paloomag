@@ -1,8 +1,8 @@
-## Hi, welcome to my Gitpage! <code><img src="https://www.iconsdb.com/icons/preview/pink/github-9-xxl.png" width=35 height=35/></code>
+## Hi, welcome to my Gitpage! <code><img src="https://www.iconsdb.com/icons/preview/pink/github-9-xxl.png" width=20 height=20/></code>
 <p>:cherry_blossom:	I'm Paloma, {Mobile and Frontend} Developer from <b>Brazil</b>.</p>
 <p>:cherry_blossom:  I currently work as a developer at the company <a href="https://www.clinitec.com.br"><b>Clinitec Internet Banda Larga</b>.</a></p>
 
-<h2>Where to find me: <code><img src="https://www.iconsdb.com/icons/preview/pink/search-12-xxl.png" width=35 height=35/></code></h2>
+<h2>Where to find me: <code><img src="https://www.iconsdb.com/icons/preview/pink/search-12-xxl.png" width=20 height=20/></code></h2>
    
    <a href="DISCORD">
      <code><img src="https://www.iconsdb.com/icons/preview/pink/discord-xxl.png" width=35 height=35/></code>
@@ -26,7 +26,7 @@
       <code><img src="https://www.iconsdb.com/icons/preview/pink/twitch-tv-2-xxl.png" width=35 height=35/></code>
    </a>
    
-   <h2>My Development Stack</h2>  <code><img src="https://www.iconsdb.com/icons/preview/pink/code-xxl.png" width=25 height=25/></code>
+   <h2>My Development Stack</h2>  <code><img src="https://www.iconsdb.com/icons/preview/pink/code-xxl.png" width=20 height=20/></code>
    
 <h3>Languages</h3>
 <p>
