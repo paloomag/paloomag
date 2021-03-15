@@ -17,7 +17,7 @@
     <img align="left" alt="html5" width="35px" height="35px" src="./img/pint.png" >
    </a>
    <a href="Steam">
-    <img align="left" alt="html5" width="35px" height="35px" src="./img/steam-xxl.png" >
+    <img align="left" alt="html5" width="25px" height="25px" src="./img/steam-xxl.png" >
    </a>
    <a href="Skype">
     <img align="left" alt="html5" width="35px" height="35px" src="./img/skype.png" >
