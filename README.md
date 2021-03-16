@@ -31,7 +31,7 @@
 <br>
 <h2> <img align="left" alt="html5" width="35px" height="35px" src="./img/code-xxl.png" > My Development Stack</h2>
 <img align="right" width="400" height="400" src="https://i.pinimg.com/originals/55/1d/45/551d452e9eb7377fd4d189bf905a61f3.gif">
-
+<img align="right" width="200" height="200" src="https://64.media.tumblr.com/2681014e06a11ea6eb6937465e435a57/tumblr_o36cefmg5l1rrcri6o1_500.gif">
 <h3>Languages</h3>
   <code><img src="https://www.flaticon.com/svg/vstatic/svg/919/919830.svg?token=exp=1615771128~hmac=6cf6c3d207a0b5898de829718b985291" width=35 height=35/></code>
   <code><img src="https://pcodinomebzero.neocities.org/Imagens/javascript1.png" width=35 height=35/></code>
