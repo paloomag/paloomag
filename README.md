@@ -27,8 +27,6 @@
     <img align="left" alt="html5" width="35px" height="35px" src="./img/steam-xxl.png" >
    </a>
 <br>
-<br>
-<br>
 <h2> <img align="left" alt="html5" width="35px" height="35px" src="./img/code-xxl.png" > My Development Stack</h2>
 <h3>Languages</h3>
 <p>
@@ -40,13 +38,11 @@
   <code><img src="https://cdn.iconscout.com/icon/free/png-256/css-118-569410.png" width=35 height=40/></code>
 </p>
 <br>
-<br>
 <h3>Frameworks</h3>
 <p>
   <code><img src="https://appmasters.io/static/react-47ce6e77f039020ee2e76a10c1e988e9.png" width=35 height=35/></code>
   <code><img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/expo_icon_132404.png" width=35 height=35/></code>
 </p> 
-<br>
 <br>
 <h3>Databases</h3>
  <p>
@@ -56,7 +52,6 @@
   <code><img src="https://cdn.worldvectorlogo.com/logos/neo4j.svg" width=45 height=35 /></code>
   <code><img src="https://icon-library.com/images/postgresql-icon/postgresql-icon-12.jpg" width=45 height=35 /></code>
 </p>
-
 <h3>Utilities</h3>
 <p>
   <code><img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/insomnia-icon.png" width=35 height=35 /></code>
