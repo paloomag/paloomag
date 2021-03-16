@@ -29,7 +29,6 @@
 <br>
 <h2> <img align="left" alt="html5" width="35px" height="35px" src="./img/code-xxl.png" > My Development Stack</h2>
 <h3>Languages</h3>
-<p>
   <code><img src="https://www.flaticon.com/svg/vstatic/svg/919/919830.svg?token=exp=1615771128~hmac=6cf6c3d207a0b5898de829718b985291" width=35 height=35/></code>
   <code><img src="https://pcodinomebzero.neocities.org/Imagens/javascript1.png" width=35 height=35/></code>
   <code><img src="https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png" width=31 height=31/></code>
@@ -37,13 +36,11 @@
   <code><img src="https://image.flaticon.com/icons/png/512/732/732212.png" width=35 height=35/></code>
   <code><img src="https://cdn.iconscout.com/icon/free/png-256/css-118-569410.png" width=35 height=40/></code>
 </p>
-<br>
 <h3>Frameworks</h3>
 <p>
   <code><img src="https://appmasters.io/static/react-47ce6e77f039020ee2e76a10c1e988e9.png" width=35 height=35/></code>
   <code><img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/expo_icon_132404.png" width=35 height=35/></code>
 </p> 
-<br>
 <h3>Databases</h3>
  <p>
   <code><img src="https://img.icons8.com/color/452/mongodb.png" width=35 height=35 /></code>
