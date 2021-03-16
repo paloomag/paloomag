@@ -14,16 +14,16 @@
    <a href="https://api.whatsapp.com/send?phone=5547991469514&text=hello!">
     <img align="left" alt="html5" width="35px" height="35px" src="./img/whats.png" >
    </a>
-   <a href="Pinterest">
+   <a href="https://br.pinterest.com/palomagoularty">
     <img align="left" alt="html5" width="35px" height="35px" src="./img/pint.png" >
    </a>
-   <a href="Skype">
+   <a href="https://join.skype.com/invite/yBIvhG2fB4I7">
     <img align="left" alt="html5" width="35px" height="35px" src="./img/skype.png" >
    </a>
-   <a href="Twitch">
+   <a href="https://www.twitch.tv/paloomag">
     <img align="left" alt="html5" width="35px" height="35px" src="./img/twitch.png" >
    </a>
-   <a href="Steam">
+   <a href="https://steamcommunity.com/id/paloomag">
     <img align="left" alt="html5" width="35px" height="35px" src="./img/steam-xxl.png" >
    </a>
 <br>
