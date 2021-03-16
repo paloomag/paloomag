@@ -43,7 +43,6 @@
 <h3>Frameworks</h3>
 <p>
   <code><img src="https://appmasters.io/static/react-47ce6e77f039020ee2e76a10c1e988e9.png" width=35 height=35/></code>
-  <code><img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/expo_icon_132404.png" width=35 height=35/></code>
 </p> 
 <h3>Databases</h3>
  <p>
@@ -58,3 +57,4 @@
   <code><img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/insomnia-icon.png" width=35 height=35 /></code>
 </p>
 <img src="https://pa1.narvii.com/6871/681a634f49748957c387d29723693d8b6c310c2ar1-500-188_hq.gif">
+<code><img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/expo_icon_132404.png" width=35 height=35/></code>
