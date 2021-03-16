@@ -1,5 +1,5 @@
 <img align="right" width="400" height="400" src="https://i.pinimg.com/originals/55/1d/45/551d452e9eb7377fd4d189bf905a61f3.gif">
-<img align="right" width="400" height="400" src="https://media.tenor.com/images/1355e2840f42f4eba8b507970dd1e97c/tenor.gif">
+<img align="right" width="200" height="200" src="https://media.tenor.com/images/1355e2840f42f4eba8b507970dd1e97c/tenor.gif">
 <h2> Hi, welcome to my Gitpage! <img align="left" alt="html5" width="35px" height="35px" src="./img/github-9-xxl.png"></h2>
 <p>:cherry_blossom:	I'm Paloma, {Mobile and Frontend} Developer from <b>Brazil</b>.</p>
 <p>:cherry_blossom:  I currently work at home as a developer at the company <a href="https://www.clinitec.com.br"><b>Clinitec Internet Banda Larga</b>.</a></p>
