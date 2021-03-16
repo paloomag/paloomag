@@ -58,4 +58,3 @@
   <code><img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/insomnia-icon.png" width=35 height=35 /></code>
 </p>
 <img align="left" src="https://pa1.narvii.com/6871/681a634f49748957c387d29723693d8b6c310c2ar1-500-188_hq.gif">
-<img align="right" width="200" height="200" src="https://64.media.tumblr.com/2681014e06a11ea6eb6937465e435a57/tumblr_o36cefmg5l1rrcri6o1_500.gif">
