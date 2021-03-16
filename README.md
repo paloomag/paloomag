@@ -11,7 +11,7 @@
    <a href="mailto:palomagoularty@gmail.com">
     <img align="left" alt="html5" width="35px" height="35px" src="./img/mail.png" >
    </a>
-   <a href="WhatsApp">
+   <a href="https://api.whatsapp.com/send?phone=5547991469514&text=hello!">
     <img align="left" alt="html5" width="35px" height="35px" src="./img/whats.png" >
    </a>
    <a href="Pinterest">
