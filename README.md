@@ -4,7 +4,6 @@
 <p>:cherry_blossom:	I'm Paloma, {Mobile and Frontend} Developer from <b>Brazil</b>.</p>
 <p>:cherry_blossom:  I currently work at home as a developer at the company <a href="https://www.clinitec.com.br"><b>Clinitec Internet Banda Larga</b>.</a></p>
 <br>
-<br>
 <h2> <img align="left" alt="html5" width="35px" height="35px" src="./img/search-xxl.png">  Where to find me: </h2>
    <a href="#">
      <img align="left" alt="html5" width="35px" height="35px" src="./img/disc.png" >
@@ -28,7 +27,7 @@
     <img align="left" alt="html5" width="35px" height="35px" src="./img/steam-xxl.png" >
    </a>
 <br>
-
+<br>
 <br>
 <h2> <img align="left" alt="html5" width="35px" height="35px" src="./img/code-xxl.png" > My Development Stack</h2>
 <img align="right" width="400" height="400" src="https://i.pinimg.com/originals/55/1d/45/551d452e9eb7377fd4d189bf905a61f3.gif">
