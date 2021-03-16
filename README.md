@@ -8,7 +8,7 @@
    <a href="DISCORD">
      <img align="left" alt="html5" width="35px" height="35px" src="./img/disc.png" >
    </a>
-   <a href="#">
+   <a href="mailto:palomagoularty@gmail.com">
     <img align="left" alt="html5" width="35px" height="35px" src="./img/mail.png" >
    </a>
    <a href="WhatsApp">
