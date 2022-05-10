@@ -1,5 +1,5 @@
 <img align="right" width="400" height="400" src="https://i.pinimg.com/originals/86/1c/ca/861cca967d578787751f79a4dffa9599.gif">
-<img align="right" width="200" height="200" src="https://media.tenor.com/images/1355e2840f42f4eba8b507970dd1e97c/tenor.gif">
+
 <h2> Hi, welcome to my Gitpage! <img align="left" alt="html5" width="35px" height="35px" src="./img/github-9-xxl.png"></h2>
 <p>:cherry_blossom:	I'm Paloma, {Mobile and Frontend} Developer from <b>Brazil</b>.</p>
 <p>:cherry_blossom:  I currently work at home as a developer at the company <a href="https://www.clinitec.com.br"><b>Clinitec Internet Banda Larga</b>.</a></p>
@@ -30,7 +30,6 @@
 <br>
 <br>
 <h2> <img align="left" alt="html5" width="35px" height="35px" src="./img/code-xxl.png" > My Development Stack</h2>
-<img align="right" width="400" height="400" src="https://i.pinimg.com/originals/55/1d/45/551d452e9eb7377fd4d189bf905a61f3.gif">
 
 <h3>Languages</h3>
   <code><img src="https://www.flaticon.com/svg/vstatic/svg/919/919830.svg?token=exp=1615771128~hmac=6cf6c3d207a0b5898de829718b985291" width=35 height=35/></code>
