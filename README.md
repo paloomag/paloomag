@@ -36,12 +36,12 @@
   <code><img src="https://pcodinomebzero.neocities.org/Imagens/javascript1.png" width=35 height=35/></code>
   <code><img src="https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png" width=31 height=31/></code>
   <code><img src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-iacute-cone-da-linguagem-de-programa-ccedil-atilde-o-java-by-vexels.png" width=35 height=35/></code>
-  <code><img src="https://image.flaticon.com/icons/png/512/732/732212.png" width=35 height=35/></code>
+  <code><img src="https://e7.pngegg.com/pngimages/410/100/png-clipart-web-development-html-responsive-web-design-logo-javascript-html-angle-web-design.png" width=35 height=35/></code>
   <code><img src="https://cdn.iconscout.com/icon/free/png-256/css-118-569410.png" width=35 height=40/></code>
 </p>
 <h3>Frameworks</h3>
 <p>
-   <code><img src="https://appmasters.io/static/react-47ce6e77f039020ee2e76a10c1e988e9.png" width=35 height=35/></code>
+   <code><img src="https://w7.pngwing.com/pngs/363/962/png-transparent-react-native-hd-logo.png" width=35 height=35/></code>
    <code><img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/expo_icon_132404.png" width=35 height=35/></code>
    <code><img src="https://getbootstrap.com.br/docs/4.1/assets/img/bootstrap-stack.png" width=35 height=35/></code>
    <code><img src="https://s.w.org/style/images/about/WordPress-logotype-wmark.png" width=35 height=35/></code>
