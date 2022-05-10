@@ -32,7 +32,7 @@
 <h2> <img align="left" alt="html5" width="35px" height="35px" src="./img/code-xxl.png" > My Development Stack</h2>
 
 <h3>Languages</h3>
-  <code><img src="https://www.flaticon.com/svg/vstatic/svg/919/919830.svg?token=exp=1615771128~hmac=6cf6c3d207a0b5898de829718b985291" width=35 height=35/></code>
+  <code><img src="https://e7.pngegg.com/pngimages/184/491/png-clipart-php-php.png" width=35 height=35/></code>
   <code><img src="https://pcodinomebzero.neocities.org/Imagens/javascript1.png" width=35 height=35/></code>
   <code><img src="https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png" width=31 height=31/></code>
   <code><img src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-iacute-cone-da-linguagem-de-programa-ccedil-atilde-o-java-by-vexels.png" width=35 height=35/></code>
