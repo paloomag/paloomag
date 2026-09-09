@@ -2,7 +2,7 @@
 
 <h2> Hi, welcome to my Gitpage! <img align="left" alt="html5" width="35px" height="35px" src="./img/github-9-xxl.png"></h2>
 <p>:cherry_blossom:	I'm Paloma, {Mobile and Frontend} Developer from <b>Brazil</b>.</p>
-<p> Check my portfolio in the link: <a href="https://www.codeghost.com.br" rel="nofollow"> codeghost.com.br.</a></p>
+<p> Check my portfolio in the link: <a href="https://www.behance.net/paloomag" rel="nofollow">https://www.behance.net/paloomag
 <br>
 <h2> <img align="left" alt="html5" width="35px" height="35px" src="./img/search-xxl.png">  Where to find me: </h2>
    <a href="#">
